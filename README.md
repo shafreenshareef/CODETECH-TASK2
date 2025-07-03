@@ -107,3 +107,10 @@ This makes it more understandable for non-technical users.
 
 This project demonstrates how supervised machine learning, combined with proper data cleaning and preprocessing, can build a robust binary classifier for medical prediction.
 
+
+![Image](https://github.com/user-attachments/assets/fc71d712-6630-431c-b2be-ae334146c01b)
+![Image](https://github.com/user-attachments/assets/76cd86e5-7a4a-4d84-94bc-a50258e8f873)
+![Image](https://github.com/user-attachments/assets/03379ebc-9b86-40d8-a04a-d759438031c6)
+![Image](https://github.com/user-attachments/assets/83da8b1b-9064-4fe5-94a6-9632352c58a9)
+![Image](https://github.com/user-attachments/assets/0a1b83e2-b9ed-4d8b-988b-af53a9a64df5)
+![Image](https://github.com/user-attachments/assets/190860e9-01d8-402e-a5aa-f91ee913ce67)
